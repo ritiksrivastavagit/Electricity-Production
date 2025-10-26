@@ -19,7 +19,7 @@ The project followed a structured, three-part process:
 3. Model Validation & Forecasting
 •	Validation: The trained model was used to forecast the 24-month test period. The predictions were highly accurate, achieving a Mean Absolute Percentage Error (MAPE) of approximately 3% against the unseen data.
 •	Final Forecast: The validated model was re-trained on the entire dataset to produce a robust 24-month forecast, complete with 80% and 95% prediction intervals.
-**How to Use**
+# **How to Use**
 1.	Clone this repository.
 2.	Download the Electric_Production.csv file.
 3.	Place the .csv file in the same directory as the R script.
