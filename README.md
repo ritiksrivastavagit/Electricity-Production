@@ -1,12 +1,12 @@
 # Electricity-Production
 A time series project in R to forecast monthly electricity production using a SARIMA model.
 This repository contains the R code and final report for a time series analysis project focused on forecasting monthly electricity production.
-**Project Objective**
+# **Project Objective**
 The primary objective of this project is to build a reliable statistical model to forecast monthly electricity production for the next 24 months. The analysis uses the Seasonal Autoregressive Integrated Moving Average (SARIMA) modeling technique, which is a powerful method for handling time series data that exhibits both a non-stationary trend and strong seasonality.
-**Tech Stack**
+# **Tech Stack**
 •	Language: R
 •	Core Libraries: tidyverse, forecast, tseries, lubridate, ggplot2
-**Methodology**
+# **Methodology**
 The project followed a structured, three-part process:
 1. Data Exploration & Preparation
 •	Visualization: The raw data was plotted, revealing an upward trend, strong annual seasonality, and increasing variance over time (heteroscedasticity).
